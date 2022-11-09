@@ -1,27 +1,12 @@
 
-# Hola me llamo Carlos
+# Agencia de viajes
 
-soy un desarrollador front-end apssionado
+pagina web realizada para promocionar viajes
 
+## License
 
-## Mis habilidades
-👩‍💻 Actualmente estoy desarollando proyectos html
+[MIT](https://choosealicense.com/licenses/mit/)
 
-🧠 continuo aprendiendo
+## imagen
 
-👯‍♀️ busco colaboradores para proyectos
- 
-
- me puedes preguntar sobre html , css javascript
-
-
-## 🛠 Preguntame sobre Java , Python
-
-
-
-
-
-## Support
-
-Cualquier consulta escribeme a mi correo:
-carlosinversiones2018@gmail.com 
+![Screenshot]![web](https://user-images.githubusercontent.com/117705995/200713142-2d670553-4fe7-4089-89da-f1b3d131b154.png)
