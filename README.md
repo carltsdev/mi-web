@@ -7,6 +7,6 @@ pagina web realizada para promocionar viajes
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## imagen
+## imagen del proyecto
 
-![Screenshot]![web](https://user-images.githubusercontent.com/117705995/200713142-2d670553-4fe7-4089-89da-f1b3d131b154.png)
+![web](https://user-images.githubusercontent.com/117705995/200713142-2d670553-4fe7-4089-89da-f1b3d131b154.png)
